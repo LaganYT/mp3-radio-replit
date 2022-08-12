@@ -2,7 +2,7 @@
 
 This is just the main repo to copy to start your own radio station. Need help? Here is what to do:
 
-#Step 1.
+**Step 1.**
 
 Copy the repository link. 
 
