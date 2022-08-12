@@ -1,4 +1,4 @@
-##Replit Radio
+# Replit Radio
 
 This is just the main repo to copy to start your own radio station. Need help? Here is what to do:
 
